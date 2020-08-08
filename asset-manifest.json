@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-messenger/static/css/main.9f426bd2.chunk.css",
+    "main.js": "/mini-messenger/static/js/main.c4e187e2.chunk.js",
+    "main.js.map": "/mini-messenger/static/js/main.c4e187e2.chunk.js.map",
+    "runtime~main.js": "/mini-messenger/static/js/runtime~main.92340b1b.js",
+    "runtime~main.js.map": "/mini-messenger/static/js/runtime~main.92340b1b.js.map",
+    "static/js/2.2173fde2.chunk.js": "/mini-messenger/static/js/2.2173fde2.chunk.js",
+    "static/js/2.2173fde2.chunk.js.map": "/mini-messenger/static/js/2.2173fde2.chunk.js.map",
+    "index.html": "/mini-messenger/index.html",
+    "precache-manifest.51f9917327441c775c3d4d767265f1e6.js": "/mini-messenger/precache-manifest.51f9917327441c775c3d4d767265f1e6.js",
+    "service-worker.js": "/mini-messenger/service-worker.js",
+    "static/css/main.9f426bd2.chunk.css.map": "/mini-messenger/static/css/main.9f426bd2.chunk.css.map"
+  }
+}
